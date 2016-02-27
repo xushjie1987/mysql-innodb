@@ -1,7 +1,7 @@
-°æ±¾ºÅ£º
+ç‰ˆæœ¬å·ï¼š
 mysql-5.5.30-winx64-template-0.1.13
 
-ÎÄ¼şÁĞ±í£º
+æ–‡ä»¶åˆ—è¡¨ï¼š
 ./README.md
 ./mysql.cmd
 ./mysqld.cmd
@@ -10,7 +10,7 @@ mysql-5.5.30-winx64-template-0.1.13
 ./master/mysqld_conf/mysqld.ini
 ./slave/mysqld_conf/mysqld.ini
 
-Õ¼Î»·û£º
-${Linux¸ñÊ½MySQL°²×°¸ùÂ·¾¶}
-${Linux¸ñÊ½MySQLÆô¶¯ÅäÖÃÂ·¾¶}
-${Windows¸ñÊ½MySQL°²×°¸ùÂ·¾¶}
+å ä½ç¬¦ï¼š
+${Linuxæ ¼å¼MySQLå®‰è£…æ ¹è·¯å¾„}
+${Linuxæ ¼å¼MySQLå¯åŠ¨é…ç½®è·¯å¾„}
+${Windowsæ ¼å¼MySQLå®‰è£…æ ¹è·¯å¾„}
